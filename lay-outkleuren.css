@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
+
 body {
   background-color: slateblue;
 }
@@ -13,14 +10,18 @@ h1 {
 
 p {
   font-family: arial;
-  font-size: 20px;
+  font-size: 30px;
 }
-</style>
-</head>
-<body>
 
-<h1> Kleurmodellen</h1>
-<p> tekst</p>
+#bin {
 
-</body>
-</html>
+  background-color: rgb(226, 145, 183);
+}
+h1 {
+  color:azure
+  text-align:center;
+}
+p{
+  font-family: arial;
+  font-size: 30px
+}
