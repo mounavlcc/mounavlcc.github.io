@@ -2,7 +2,7 @@
 body {
   background-color: slateblue;
 }
-#kleurmodellen
+
 h1 {
   color: lightpink;
   text-align: center;
@@ -18,11 +18,7 @@ p {
   background-color: rgb(226, 145, 183);
 }
 h1 {
-  color:azure
+  color:azure;
   text-align: center;
 }
-p{
-  font-family: arial;
-  font-size: 30px
-}
-body
+
