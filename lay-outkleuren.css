@@ -22,4 +22,8 @@ h1 {
   color:azure;
   text-align: center;
 }
-p{ }
+p{
+  font-family: arial;
+  font-size: 30px;
+  
+ }
