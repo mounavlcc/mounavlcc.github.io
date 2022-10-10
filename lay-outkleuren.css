@@ -1,11 +1,12 @@
 
 body {
-  background-color: slateblue;
+  background-color: linen;
 }
 
 h1 {
   color: lightpink;
   text-align: center;
+  
 }
 
 p {
@@ -21,4 +22,4 @@ h1 {
   color:azure;
   text-align: center;
 }
-
+p{ }
