@@ -28,3 +28,15 @@ p2{
   font-size: 14px;
 
  }
+ 
+ #kleurmodellen {
+  background-color: darksalmon;
+ }
+h3{
+  color:lightskyblue;
+  text-align: center;
+}
+p3{
+  font-family:"Times New Roman", Times, serif;
+  font-size: 14px;
+}
