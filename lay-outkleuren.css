@@ -20,7 +20,7 @@ p {
   background-color: rgb(226, 145, 183);
 }
 h2 {
-  color:azure;
+  color:orchid;
   text-align: center;
 }
 p2{
@@ -33,9 +33,10 @@ p2{
   background-color: darksalmon;
  }
 h3{
-  color:lightskyblue;
-  text-align: center;
+  color:yellowgreen
+  text-align center;
 }
+
 p3{
   font-family:"Times New Roman", Times, serif;
   font-size: 14px;
@@ -46,7 +47,7 @@ p3{
    margin: 0;
    padding: 0;
    overflow: hidden;
-   background-color: #333;
+   background-color:darkgray;
   }
         
   li {
@@ -65,6 +66,6 @@ p3{
   background-color: #111;
   }
   .active{ 
-   background-color: chocolate;
+   background-color: rgb(127, 64, 19);
    }
       
