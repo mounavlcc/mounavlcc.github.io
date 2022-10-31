@@ -71,8 +71,7 @@ ul {
   background-color: rgb(136, 46, 46);
   }
 
- 
- #compressie {
+   #compressie {
  background-color: rgb(145, 191, 226);
 }
 h1 {
@@ -87,4 +86,18 @@ p1{
  p2{font-family: 'Times New Roman', Times, serif;
 font-size: 17px;
 }
- 
+
+#bestand {
+  background-color: yellowgreen;
+}
+h7 {
+  color:darkkhaki;
+  text-align: center;
+}
+ p7{ 
+  font-family: 'Times New Roman', Times, serif;
+ font-size: 17px;
+}
+p8{font-family: 'Times New Roman', Times, serif;
+font-size: 17px;
+}
