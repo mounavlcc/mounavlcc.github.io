@@ -76,4 +76,19 @@ p3{
     padding: 10px;
   }
  
-      
+ #compressie {
+ background-color: rgb(145, 191, 226);
+}
+h1 {
+  color:rgb(246, 211, 87);
+  text-align: center;
+}
+p1{
+  font-family: "Times New Roman", Times, serif;
+  font-size: 17px;
+
+ }
+ p2{font-family: 'Times New Roman', Times, serif;
+font-size: 17px;
+}
+ 
