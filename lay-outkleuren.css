@@ -27,10 +27,15 @@ p2{
   font-size: 17px;
 
  }
+ p5{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 17px;
+ }
  
  #kleurmodellen {
   background-color: darksalmon;
  }
+
 h3{
   color:yellowgreen
   text-align center;
@@ -42,7 +47,7 @@ p3{
 }
 
 
-   ul {
+ul {
    list-style-type: none;
    margin: 0;
    padding: 0;
@@ -63,17 +68,9 @@ p3{
   }
         
   li a:hover {
-  background-color: #111;
+  background-color: rgb(136, 46, 46);
   }
-  .active{ 
-   background-color: rgb(127, 64, 19);
-   }
 
-   .footer {
-    background-color: pink;
-    text-align: center;
-    padding: 10px;
-  }
  
  #compressie {
  background-color: rgb(145, 191, 226);
