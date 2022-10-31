@@ -104,3 +104,10 @@ h7 {
 p8{font-family: 'Times New Roman', Times, serif;
 font-size: 17px;
 }
+
+#footer {
+  text-align: center;
+  padding: 3px;
+  background-color: pink;
+  color: white;
+}
