@@ -69,7 +69,7 @@ ul {
   }
         
   li a:hover {
-  background-color: rgb(24, 17, 17);
+  background-color: brown;
   }
 
    #compressie {
@@ -78,6 +78,7 @@ ul {
 h1 {
   color:rgb(246, 211, 87);
   text-align: center;
+  font-size: 30px;
 }
 p1{
   font-family: "Times New Roman", Times, serif;
@@ -94,6 +95,7 @@ font-size: 17px;
 h7 {
   color:darkkhaki;
   text-align: center;
+  font-size: 30px;
 }
  p7{ 
   font-family: 'Times New Roman', Times, serif;
