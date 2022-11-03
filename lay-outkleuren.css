@@ -124,11 +124,25 @@ font-size: 30px;
 
 p10{ 
   font-family:'Times New Roman', Times, serif;
-  font-size: 20px;
+  font-size: 22px;
+  text-align: center;
+  color: coral;
 }
 p11 {font-family:'Times New Roman', Times, serif;
-font-size: 20px;
+font-size: 22px;
+text-align: center;
+color: coral;
 }
+
+
+
+
+
+
+
+
+
+
 div {
   padding: 4px;
   width: 400px;
