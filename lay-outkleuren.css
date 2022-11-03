@@ -100,7 +100,7 @@ font-size: 17px;
 #bestand {
   background-color: yellowgreen;
 }
-h7 {
+h2{
   color:rgb(82, 105, 50);
   text-align: center;
   font-size: 30px;
@@ -124,7 +124,7 @@ footer {
   background-color: cadetblue;
 }
 
-h10 { color:coral;
+h6 { color:coral;
 text-align: center;
 font-size: 30px;
 }
