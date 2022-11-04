@@ -1,6 +1,8 @@
 #menu{
   background-color: linen;
 }
+/**deze css codes voegen de kleuren, tekstgrootte ect. in de website**/
+/** de # dat voor alles staat laat weten dat er in een andere pagina een id staat dat ernmee wordt verbonden**/
 
 h4 {
   color: lightpink;
@@ -55,7 +57,7 @@ p3{
   font-family:"Times New Roman", Times, serif;
   font-size: 17px;
 }
-
+/** Dit is de code voor het balkje boven elk pagina waarop je kan klikken zodat je naar een andere pagina gaat.**/
 
 ul {
    list-style-type: none;
@@ -76,7 +78,7 @@ ul {
   padding: 14px 16px;
   text-decoration: none;
   }
-        
+  /** Deze hover geeft een kleurverandering zodra je met je muis boven het balkje gaat bewegen.**/
   li a:hover {
   background-color: brown;
   }
@@ -113,7 +115,7 @@ h2{
 p8{font-family: 'Times New Roman', Times, serif;
 font-size: 17px;
 }
-
+/** Dit is de footer dat op mijn beginscherm staat, wat aangeeft wie de maker is en waar je naartoe moet mailen voor vragen.**/
 footer {
   text-align: right;
   padding: 3px;
