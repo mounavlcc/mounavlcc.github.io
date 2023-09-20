@@ -147,7 +147,13 @@ color: coral;
 }
 
 p16 {font-family:'Times New Roman', Times, serif;
-font-size: 30px;
+font-size: 20px;
 text-align: center;
 color: black;
+}
+
+h10{ color:black;
+text-align: left;
+font-size: 25px;
+padding:0%;
 }
